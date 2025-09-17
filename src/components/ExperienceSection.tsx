@@ -19,7 +19,7 @@ const ExperienceSection = () => {
       role: 'Software Development Intern',
       period: 'June 2025 - August 2025',
       location: 'Pasadena, CA',
-      description: 'Developing machine learning models and AI applications, focusing on recommendation systems and data-driven solutions for real-world problems.',
+      description: 'Developed an AI-powered platform to generate Earthquake shake maps in data-scarce regions for seismologists.',
       skills: ['Python', 'Flask', 'Scikit-learn', 'Machine Learning', 'Data Analysis'],
       type: 'Research'
     },
@@ -28,13 +28,13 @@ const ExperienceSection = () => {
       role: 'AI/ML Intern',
       period: 'May 2024 - May 2025',
       location: 'UCLA',
-      description: 'Developing machine learning models and AI applications, focusing on recommendation systems and data-driven solutions for real-world problems.',
+      description: 'Developed machine learning models and AI applications, focusing on recommendation systems and data-driven solutions for real-world problems.',
       skills: ['Python', 'Flask', 'Scikit-learn', 'Machine Learning', 'Data Analysis'],
       type: 'Research'
     },
     {
       company: 'Caltech',
-      role: 'Visiting Undergraduate Researcher',
+      role: 'Software Development Intern',
       period: 'Jan 2024 - May 2025',
       location: 'Pasadena, CA',
       description: 'Worked on Binary Star Classification Model under PI Professor Gregg Hallinan and advisor/mentor Dr. Rocio Kiman.',
