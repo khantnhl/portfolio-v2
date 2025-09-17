@@ -9,7 +9,7 @@ const ProjectsSection = () => {
     {
       title: 'QuakeMap',
       description: 'An AI-Powered Multimodal Earthquake Assessment Platform for Data-Scarce Regions',
-      image: 'src/assets/quakeMap.png',
+      image: '/quakeMap.png',
       technologies: ['React', 'Python', 'RAG', 'LangGraph', 'Gemini API', 'PineCone'],
       githubUrl: 'https://github.com/khantnhl/Quakemap',
       liveUrl: 'https://quakemap-client-376k.onrender.com/',
@@ -19,7 +19,7 @@ const ProjectsSection = () => {
     {
       title: 'JourneyAI',
       description: 'One-click AI trip planner powered by Google Gemini. Creates personalized travel itineraries based on preferences, budget, and time constraints.',
-      image: 'src/assets/journeyAI.png',
+      image: '/journeyAI.png',
       technologies: ['React', 'Gemini API', 'Maps API', 'Tailwind CSS', 'Firebase'],
       githubUrl: 'https://github.com/khantnhl/JourneyAI-v1',
       liveUrl: 'https://journey-ai-v1.vercel.app/',
@@ -29,7 +29,7 @@ const ProjectsSection = () => {
     {
       title: 'Live Coding Platform',
       description: 'Multiplayer rooms to compete solving leetcode problems with friends.',
-      image: 'src/assets/livecodingplatform.png',
+      image: '/livecodingplatform.png',
       technologies: ['React', 'Typescript', 'Socket.io', 'Postgresql', 'Tailwind CSS'],
       githubUrl: 'https://github.com/khantnhl/Live-Coding-Platform',
       liveUrl: '',
