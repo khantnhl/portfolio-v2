@@ -12,10 +12,10 @@ const AboutSection = () => {
   // ];
 
   const roadtripPhotos = [
-    { src: "src/assets/IMG_2754 2.JPG", alt: "Mountain adventure with friends", location: "Yosemite National Park" },
-    { src: "src/assets/IMG_1079.jpg", alt: "Sunset moments", location: "La Jolla Cove" },
-    { src: "src/assets/clubRush.JPG", alt: "City exploration", location: "PI Day Celebration" },
-    { src: "src/assets/clubActivity.JPG", alt: "Canyon", location: "Coding Workshop" },
+    { src: "../assets/IMG_2754 2.JPG", alt: "Mountain adventure with friends", location: "Yosemite National Park" },
+    { src: "../assets/IMG_1079.jpg", alt: "Sunset moments", location: "La Jolla Cove" },
+    { src: "../assets/clubRush.JPG", alt: "City exploration", location: "PI Day Celebration" },
+    { src: "../assets/clubActivity.JPG", alt: "Canyon", location: "Coding Workshop" },
   ];
 
   const interests = [
