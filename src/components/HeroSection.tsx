@@ -52,7 +52,7 @@ const HeroSection = () => {
 
             <p className="text-xl text-muted-foreground leading-relaxed max-w-lg">
               Computer Science student at UCLA. 
-              <br></br>Prev @ Uber fellow, Caltech, Break Through Tech AI. 
+              <br></br>Prev @ Uber fellow, Statewide California Earthquake Center, Caltech, CariCon, & Break Through Tech AI. 
               <br></br>Passionate about software systems and building high-impact tools.
             </p>
 
