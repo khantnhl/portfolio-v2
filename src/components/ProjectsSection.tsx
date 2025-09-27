@@ -7,12 +7,12 @@ import { Github, ExternalLink, Star, GitFork } from 'lucide-react';
 const ProjectsSection = () => {
   const projects = [
     {
-      title: 'QuakeMap',
-      description: 'An AI-Powered Multimodal Earthquake Assessment Platform for Data-Scarce Regions',
-      image: '/quakeMap.png',
+      title: 'Kel Sel Yay',
+      description: 'Crisis Response Web app to help emergency rescue missions on ground in the aftermath of Thai-Myanmar\'s 7.7 magnitude earthquake',
+      image: '/kelselyay.png',
       technologies: ['React', 'Python', 'RAG', 'LangGraph', 'Gemini API', 'PineCone'],
-      githubUrl: 'https://github.com/khantnhl/Quakemap',
-      liveUrl: 'https://quakemap-client-376k.onrender.com/',
+      githubUrl: 'https://github.com/Kel-Sel-Yay-Team/kelSelYay',
+      liveUrl: 'https://www.kelselyay.com/quakemap-client-376k.onrender.com/',
       featured: true,
       stats: { stars: 3, forks: 1 }
     },
