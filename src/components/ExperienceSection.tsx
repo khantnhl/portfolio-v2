@@ -15,31 +15,31 @@ const ExperienceSection = () => {
       type: 'Industry'
     },
     {
-      company: 'Caltech',
-      role: 'Software Development Intern',
+      company: 'Statewide California Earthquake Center',
+      role: 'Software Engineer Intern',
       period: 'June 2025 - August 2025',
       location: 'Pasadena, CA',
-      description: 'Developed an AI-powered platform to generate Earthquake shake maps in data-scarce regions for seismologists.',
-      skills: ['Python', 'Flask', 'Scikit-learn', 'Machine Learning', 'Data Analysis'],
-      type: 'Research'
-    },
-    {
-      company: 'Break Through Tech AI',
-      role: 'AI/ML Intern',
-      period: 'May 2024 - May 2025',
-      location: 'UCLA',
-      description: 'Developed machine learning models and AI applications, focusing on recommendation systems and data-driven solutions for real-world problems.',
-      skills: ['Python', 'Flask', 'Scikit-learn', 'Machine Learning', 'Data Analysis'],
-      type: 'Research'
+      description: 'Developed an AI-powered platform to monitor earthquakes and generate maps for data-scarce regions, adopted by seismologists.',
+      skills: ['Full-Stack','Python', 'Flask', 'Scikit-learn', 'Machine Learning', 'Data Analysis'],
+      type: 'Industry'
     },
     {
       company: 'Caltech',
-      role: 'Software Development Intern',
-      period: 'Jan 2024 - May 2025',
+      role: 'Software Engineer Intern',
+      period: 'June 2024 - August 2025',
       location: 'Pasadena, CA',
-      description: 'Worked on Binary Star Classification Model under PI Professor Gregg Hallinan and advisor/mentor Dr. Rocio Kiman.',
-      skills: ['Research', 'Python', 'Scikit-learn', 'Machine Learning'],
-      type: 'Research'
+      description: 'Worked on ML team, building pre-processing pipelines for Binary Star Classification Model.',
+      skills: ['Python', 'Scikit-learn', 'Machine Learning'],
+      type: 'Industry'
+    },
+    {
+      company: 'CaiCon',
+      role: 'Software Engineer Intern',
+      period: 'Jan 2024 - April 2024',
+      location: 'UCLA',
+      description: 'Built a full-stack platform to connect 100+ Caribbean writers with publishing houses for equitable access to opportunities.',
+      skills: ['Python', 'Flask', 'Scikit-learn', 'Machine Learning', 'Data Analysis'],
+      type: 'Industry'
     },
     {
       company: 'Pasadena City College',
